@@ -51,7 +51,7 @@ By leveraging Web3 principles, EduLedger brings transparency, fairness, and ince
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Goldweb-Solutions/EduLedger
+    git clone https://github.com/ShubhAgarwal0204/EduLedger
     ```
 2.  Navigate to the project directory:
     ```bash
